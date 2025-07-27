@@ -38,13 +38,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Master-yug/Master-yug/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Master-yug/Master-yug/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Master-yug/Master-yug/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 <!--
 **Master-yug/Master-Yug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
