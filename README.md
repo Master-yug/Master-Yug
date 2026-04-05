@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h1 align="center">Print("Hello World!")</h1>
-<h1 align="center">std::cout<<"Hello World!"<<endl;</h1>
+<h1 align="center">std::cout<<"Hello World!";</h1>
 <h1 align="center">printf("Hello, World!");</h1>
 
 ###
